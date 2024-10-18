@@ -4,9 +4,9 @@
 }
 
 h1 {
-	font-family: 'COD', san-serif;
+	font-family: 'COD', sans-serif;
 	text-align: center;
-	size: 28px;
+	font-size: 28px;
 	color: black;
 	text-shadow: 2px 2px 4px #7B111F;
 }
