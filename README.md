@@ -1,2 +1,2 @@
-# webdev_project1
-web development project 1
+# webdev_project2
+web development project 2
