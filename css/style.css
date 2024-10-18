@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'COD';
+	src: url("../fonts/Call of Ops Duty II.otf");
+}
+
+h1 {
+	font-family: 'COD', san-serif;
+	text-align: center;
+	size: 28px;
+	color: black;
+	text-shadow: 2px 2px 4px #7B111F;
+}
+	
